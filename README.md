@@ -9,6 +9,9 @@ This project provides comprehensive analytics for the **Restaurant Order System 
 - Delivery performance
 - Payment success
 
+The dataset used in this project has been **collected and generated for restaurants operating in the United Kingdom (UK)**, reflecting regional dining patterns, customer behavior, and operational performance relevant to the UK market.
+
+
 ---
 
 ## 🧰 Workflow Platform
@@ -79,5 +82,5 @@ This project provides comprehensive analytics for the **Restaurant Order System 
 
 ```bash
 📁 ROS_Analytics_Project/
-├── Project_ROS1.knwf           # KNIME workflow
-└── KPIs.pdf                    # List of key KPIs and calculation logic
+├── datasets           # datasets used
+└── Project_ROS1.knwf                   #  KNIME workflow
