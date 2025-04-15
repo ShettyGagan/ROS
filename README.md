@@ -2,7 +2,7 @@
 
 ## 🧩 Overview
 
-This project provides comprehensive analytics for the **Restaurant Order System (ROS)** using a **KNIME workflow** (`Project_ROS1.knwf`). It processes and visualizes **Key Performance Indicators (KPIs)** to help stakeholders monitor, evaluate, and improve restaurant operations across multiple dimensions such as:
+This project provides comprehensive analytics for the **Restaurant One Solution (ROS)** using a **KNIME workflow** (`Project_ROS1.knwf`). It processes and visualizes **Key Performance Indicators (KPIs)** to help stakeholders monitor, evaluate, and improve restaurant operations across multiple dimensions such as:
 
 - Revenue
 - Customer behavior
